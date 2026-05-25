@@ -1,1 +1,13 @@
 /postings.csv
+.idea/
+*.iml
+*.log
+*.tmp
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.orig
+*.pyc
+__pycache__/
+venv/
